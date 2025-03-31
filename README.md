@@ -18,7 +18,7 @@ Estudante de **Engenharia de Computação** na **Universidade Federal de Goiás 
 ## 🔧 Projetos em destaque
 
 - **Equilíbrio de Plataforma**: Controle PID aplicado a uma plataforma com servomotores.
-- **Dino Game**: Versão personalizada do jogo Dino do Chrome, com melhorias e desafios adicionais.
+...
 
 ## 🛠️ Tecnologias e Ferramentas
 
