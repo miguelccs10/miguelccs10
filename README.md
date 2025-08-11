@@ -1,3 +1,3 @@
 # 👋 Miguel Costa
 
-Graduando do 2º período em **Engenharia de Computação** pela **UFG**
+Graduando do 3º período em **Engenharia de Computação** pela **UFG**
